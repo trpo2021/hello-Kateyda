@@ -1,4 +1,2 @@
-﻿
-#include <iostream>
-#include <stdio.h> 
-int main(){std::cout << "Hello World!\n";}
+﻿#include <stdio.h> 
+int main(){printf("Hello World!\n");return 0;}
